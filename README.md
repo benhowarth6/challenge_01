@@ -6,7 +6,8 @@ This project is a website for Horiseon, a social solution services company. The 
 
 ## Screenshot
 
-(https://user-images.githubusercontent.com/5146425/197270690-112ec59e-6fe2-4066-a592-8a4e16c0b706.jpg)
+![Screenshot 2022-10-21 at 20 03 51](https://user-images.githubusercontent.com/5146425/197271359-812fcdf6-cdc1-407d-be8a-b4a11693fe05.jpg)
+
 
 ## Link
 
